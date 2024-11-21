@@ -13,5 +13,4 @@ This project is designed to transcribe and summarize YouTube videos automaticall
 - `yt-dlp`: For downloading YouTube audio.
 - `whisper`: For transcribing audio to text.
 - `transformers`: For Hugging Face models such as BART.
-- `datasets`: For accessing datasets (for RAG, if you plan to use it).
 - `torch`: PyTorch for running the models.
